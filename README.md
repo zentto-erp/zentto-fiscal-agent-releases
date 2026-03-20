@@ -14,7 +14,7 @@ Descarga la ultima version desde **[Releases](https://github.com/zentto-erp/zent
 1. Descarga `ZenttoFiscalAgent-Setup-vX.X.exe`
 2. Ejecuta como **Administrador**
 3. Sigue el asistente
-4. El servicio se inicia automaticamente en `http://localhost:5059`
+4. El servicio se inicia automaticamente en `http://localhost:7654`
 
 ## Instalacion manual (portable)
 
@@ -24,7 +24,7 @@ Descarga la ultima version desde **[Releases](https://github.com/zentto-erp/zent
 
 ## Verificar
 
-Abre en el navegador: [http://localhost:5059](http://localhost:5059)
+Abre en el navegador: [http://localhost:7654](http://localhost:7654)
 
 ## Desinstalar
 
